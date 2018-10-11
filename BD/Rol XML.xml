@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<CrystalReport xmlns="urn:crystal-reports:schemas:report-detail"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:crystal-reports:schemas:report-detail http://www.businessobjects.com/products/xml/CR2008Schema.xsd">
+<Group Level="1">
+<GroupHeader>
+<Section SectionNumber="0">
+<Field Name="TituloGrupo1" FieldName="{@TituloGrupo}"><FormattedValue>------ ... C A R P E T A S    D E    I N V E S T I G A C I Ó N    I N I C I A D A S ...   ------</FormattedValue><Value>------ ... C A R P E T A S    D E    I N V E S T I G A C I Ó N    I N I C I A D A S ...   ------</Value></Field>
+</Section>
+</GroupHeader>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02924/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 12:04
+M.P. Titular: JESUS IGNACIO RODRIGUEZ MARTINEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02924/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 12:04
+M.P. Titular: JESUS IGNACIO RODRIGUEZ MARTINEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>USURPACIÓN DE IDENTIDAD Mod.- USURPACIÓN DE IDENTIDAD Art. 211 BIS (150)
+En la calle ANDADOR 31 DEL TEMOLUCO ENTRADA 6 CASA 4   No. Ext.    No. Int.    Referencia:    entre la calle      y   
+C.P. 07270 Colonia: ACUEDUCTO DE GUADALUPE
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 12:00:00 p.m. del día 13 septiembre 2018
+Hechos: EL DENUNCINATE HACE DEL CONOCIMINETO HECHOS POSIBLEMENTE CONSTITUTIVOS DEL DELITO DE USURPACION DE IDENTIDAD</FormattedValue><Value>USURPACIÓN DE IDENTIDAD Mod.- USURPACIÓN DE IDENTIDAD Art. 211 BIS (150)
+En la calle ANDADOR 31 DEL TEMOLUCO ENTRADA 6 CASA 4   No. Ext.    No. Int.    Referencia:    entre la calle      y   
+C.P. 07270 Colonia: ACUEDUCTO DE GUADALUPE
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 12:00:00 p.m. del día 13 septiembre 2018
+Hechos: EL DENUNCINATE HACE DEL CONOCIMINETO HECHOS POSIBLEMENTE CONSTITUTIVOS DEL DELITO DE USURPACION DE IDENTIDAD</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): ISMAEL SERGIO AGUILAR RIVERA
+Edad: 67 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): ISMAEL SERGIO AGUILAR RIVERA
+Edad: 67 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02925/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 12:50
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02925/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 12:50
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- ENCONTRANDOSE LA VÍCTIMA O EL OBJETO DEL APODERAMIENTO EN UN VEHÍCULO PARTICULAR O DE TRANSPORTE PÚBLICO Art. 220.II/224.III (22J)
+En la calle INTERIOR DE LAS INSTALACIONES DE LA ESTACION DEL METRO INDIOS VERDES DIRECCION UNIVERSIDAD   No. Ext.    No. Int.    Referencia:    entre la calle      y   
+C.P. 07369 Colonia: RESIDENCIAL ZACATENCO
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 7:15:00 a.m. del día 20 septiembre 2018
+Hechos: SE PRESENTA A INICIAR CARPETA DE INVESTIGACION POR ROBO</FormattedValue><Value>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- ENCONTRANDOSE LA VÍCTIMA O EL OBJETO DEL APODERAMIENTO EN UN VEHÍCULO PARTICULAR O DE TRANSPORTE PÚBLICO Art. 220.II/224.III (22J)
+En la calle INTERIOR DE LAS INSTALACIONES DE LA ESTACION DEL METRO INDIOS VERDES DIRECCION UNIVERSIDAD   No. Ext.    No. Int.    Referencia:    entre la calle      y   
+C.P. 07369 Colonia: RESIDENCIAL ZACATENCO
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 7:15:00 a.m. del día 20 septiembre 2018
+Hechos: SE PRESENTA A INICIAR CARPETA DE INVESTIGACION POR ROBO</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): JORGE PAZ TADEO
+Edad: 43 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): JORGE PAZ TADEO
+Edad: 43 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02926/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 13:58
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02926/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 13:58
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>DELITOS CONTRA LA SALUD EN SU MODALIDAD NARCOMENUDEO Mod.- POSESION SIMPLE Art. 477 (30a)
+En la calle NORTE 82 Y ORIENTE 119   No. Ext. SN   No. Int.    Referencia:    entre la calle      y   
+C.P. 07830 Colonia: GERTRUDIS SANCHEZ 1A SECCION
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:30:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIAS PREVENTIIVOS PONEN A DISPOSICION  A SUJETO MASCULINO  EN POSESION DE VEGETAL VERDE Y SECO CON CARACTERISTICAS DE LA MARIHUANA</FormattedValue><Value>DELITOS CONTRA LA SALUD EN SU MODALIDAD NARCOMENUDEO Mod.- POSESION SIMPLE Art. 477 (30a)
+En la calle NORTE 82 Y ORIENTE 119   No. Ext. SN   No. Int.    Referencia:    entre la calle      y   
+C.P. 07830 Colonia: GERTRUDIS SANCHEZ 1A SECCION
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:30:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIAS PREVENTIIVOS PONEN A DISPOSICION  A SUJETO MASCULINO  EN POSESION DE VEGETAL VERDE Y SECO CON CARACTERISTICAS DE LA MARIHUANA</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>AGRAVIADO(s): LA SOCIEDAD .
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA
+
+REMITENTE(s): POLICIA PREVENTIVO   JESUS UDO FERNANDEZ MATA
+Edad:  41 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   EMMANUEL GONZALEZ ORDOÑEZ
+Edad:  27 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>AGRAVIADO(s): LA SOCIEDAD .
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA
+
+REMITENTE(s): POLICIA PREVENTIVO   JESUS UDO FERNANDEZ MATA
+Edad:  41 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   EMMANUEL GONZALEZ ORDOÑEZ
+Edad:  27 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: EDGAR NOEL CAMPOS LUNA
+Edad: 20 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: EDGAR NOEL CAMPOS LUNA
+Edad: 20 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</FormattedValue><Value>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02927/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 14:28
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO COVARRUBIAS MENDEZ
+Monto: 1</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02927/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 14:28
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO COVARRUBIAS MENDEZ
+Monto: 1</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 VECES LA UNIDAD DE CUENTA) Mod.- ROBO DE ACCESORIOS DE VEHICULO Art. 220.II/224.VIII (22a)
+En la calle TENOCHTITLAN   No. Ext.    No. Int.    Referencia:    entre la calle   TEPALCATZIN   y   
+C.P. 07010B Colonia: SANTA ISABEL TOLA
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 12:40:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIA PREVENTIVOS PONEN A DISPOSICION A LOS IMPUTADOS POR EL DELITO DE ROBO DE ACCESORIOS</FormattedValue><Value>ROBO (NO EXCEDA DE 300 VECES LA UNIDAD DE CUENTA) Mod.- ROBO DE ACCESORIOS DE VEHICULO Art. 220.II/224.VIII (22a)
+En la calle TENOCHTITLAN   No. Ext.    No. Int.    Referencia:    entre la calle   TEPALCATZIN   y   
+C.P. 07010B Colonia: SANTA ISABEL TOLA
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 12:40:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIA PREVENTIVOS PONEN A DISPOSICION A LOS IMPUTADOS POR EL DELITO DE ROBO DE ACCESORIOS</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): SARAHI MUÑOZ CAMACHO
+Edad: 27 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   ELEUTERIO JUAREZ HERNANDEZ
+Edad:  48 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   NICOLAS RODRIGUEZ MATIAS
+Edad:  49 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): SARAHI MUÑOZ CAMACHO
+Edad: 27 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   ELEUTERIO JUAREZ HERNANDEZ
+Edad:  48 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   NICOLAS RODRIGUEZ MATIAS
+Edad:  49 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: JAVIER GARCIA ESPINOZA
+Edad: 28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+IMPUTADO: RICARDO AGUILAR SANCHEZ
+Edad: 20 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>IMPUTADO: JAVIER GARCIA ESPINOZA
+Edad: 28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+IMPUTADO: RICARDO AGUILAR SANCHEZ
+Edad: 20 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02923/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 11:23
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 2000</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02923/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 11:23
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 2000</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO ( MÁS 750 SALARIOS MÍNIMOS) Mod.- CASA HABITACION SIN VIOLENCIA Art. 220.IV/223.III (17)
+En la calle IGNACIO GAMA   No. Ext.    No. Int.    Referencia:    entre la calle   VEINTE DE NOVIEMBRE   y   
+C.P. 07100 Colonia: CUAUTEPEC EL ALTO
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 10:30:00 a.m. del día 20 septiembre 2018
+Hechos: QUE ES SOMPRENDIDO A UN SUEJTO SALIENDO DEL DOMICILIO EL CUAL SE HABAI ROBADO VARIAS COSAS</FormattedValue><Value>ROBO ( MÁS 750 SALARIOS MÍNIMOS) Mod.- CASA HABITACION SIN VIOLENCIA Art. 220.IV/223.III (17)
+En la calle IGNACIO GAMA   No. Ext.    No. Int.    Referencia:    entre la calle   VEINTE DE NOVIEMBRE   y   
+C.P. 07100 Colonia: CUAUTEPEC EL ALTO
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 10:30:00 a.m. del día 20 septiembre 2018
+Hechos: QUE ES SOMPRENDIDO A UN SUEJTO SALIENDO DEL DOMICILIO EL CUAL SE HABAI ROBADO VARIAS COSAS</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): ALDO EDUARDO HERNANDEZ NAVARRO
+Edad: 30 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   CESAR EDGAR CALDERON MORENO
+Edad:  28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   ARTURO ALCANTARA GONZALEZ
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): ALDO EDUARDO HERNANDEZ NAVARRO
+Edad: 30 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   CESAR EDGAR CALDERON MORENO
+Edad:  28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   ARTURO ALCANTARA GONZALEZ
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: FERNANDO ABRAHAM CRUZ REYES
+Edad: 32 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>IMPUTADO: FERNANDO ABRAHAM CRUZ REYES
+Edad: 32 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02928/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 16:15
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02928/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 16:15
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- NEGOCIO SIN VIOLENCIA Art. 220.II/223.I (18)
+En la calle CALZADA DE GUADALUPE   No. Ext. 431   No. Int.    Referencia:    entre la calle      y   
+C.P. 07840 Colonia: GUADALUPE TEPEYAC
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 3:00:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIA PONE A DISPOSICION AL IMPUTADO LUEGO DE QUE SUSTRAJERA MERCANCIA DE LA TIENDA WAL MART SIN REALIZAR EL PAGO CORRESPONDIENTE</FormattedValue><Value>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- NEGOCIO SIN VIOLENCIA Art. 220.II/223.I (18)
+En la calle CALZADA DE GUADALUPE   No. Ext. 431   No. Int.    Referencia:    entre la calle      y   
+C.P. 07840 Colonia: GUADALUPE TEPEYAC
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 3:00:00 p.m. del día 20 septiembre 2018
+Hechos: POLICIA PONE A DISPOSICION AL IMPUTADO LUEGO DE QUE SUSTRAJERA MERCANCIA DE LA TIENDA WAL MART SIN REALIZAR EL PAGO CORRESPONDIENTE</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>AGRAVIADO(s): NUEVA WAL MART DE MEXICO S DE RL DE CV
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA
+
+REMITENTE(s): POLICIA AUXILIAR   CELINA VAZQUEZ GARCIA
+Edad:  37 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>AGRAVIADO(s): NUEVA WAL MART DE MEXICO S DE RL DE CV
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA
+
+REMITENTE(s): POLICIA AUXILIAR   CELINA VAZQUEZ GARCIA
+Edad:  37 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: MARCO ANTONIO ORTIZ RIOS
+Edad: 48 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>IMPUTADO: MARCO ANTONIO ORTIZ RIOS
+Edad: 48 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</FormattedValue><Value>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02934/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 21 septiembre 2018
+Hora: 06:22
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO COVARRUBIAS MENDEZ
+Monto: 2500</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02934/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 21 septiembre 2018
+Hora: 06:22
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO COVARRUBIAS MENDEZ
+Monto: 2500</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO CALIFICADO (CON VIOLENCIA) Mod.- ROBO A TRANSEUNTE C/V EN LA VIA PUBLICA Art. 225.I (15A)
+En la calle CALZADA DE GUADALUPE   No. Ext. SIN NUMERO   No. Int.    Referencia:    entre la calle   CUAUHTEMOC   y   
+C.P. 07000 Colonia: ARAGON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 5:20:00 a.m. del día 21 septiembre 2018
+Hechos: POLICAS PREVENTIVOS PONEN A DISPOSICION AL IMPÚTADO POR EL DELITO DE ROBO A TRANSEUNTE CON VIOLENCIA</FormattedValue><Value>ROBO CALIFICADO (CON VIOLENCIA) Mod.- ROBO A TRANSEUNTE C/V EN LA VIA PUBLICA Art. 225.I (15A)
+En la calle CALZADA DE GUADALUPE   No. Ext. SIN NUMERO   No. Int.    Referencia:    entre la calle   CUAUHTEMOC   y   
+C.P. 07000 Colonia: ARAGON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 5:20:00 a.m. del día 21 septiembre 2018
+Hechos: POLICAS PREVENTIVOS PONEN A DISPOSICION AL IMPÚTADO POR EL DELITO DE ROBO A TRANSEUNTE CON VIOLENCIA</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): PEDRO FRANCISCO NARES LARRAURI
+Edad: 34 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JACINTO LLORENTE MORALES
+Edad:  49 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   RODRIGO BUSTOS VELAZQUEZ
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): PEDRO FRANCISCO NARES LARRAURI
+Edad: 34 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JACINTO LLORENTE MORALES
+Edad:  49 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   RODRIGO BUSTOS VELAZQUEZ
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: JORGE ZUÑIGA LOPEZ
+Edad: sin edad
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: JORGE ZUÑIGA LOPEZ
+Edad: sin edad
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02929/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 17:35
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ARTURO HERNANDEZ HERNANDEZ
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02929/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 17:35
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ARTURO HERNANDEZ HERNANDEZ
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- NEGOCIO SIN VIOLENCIA Art. 220.II/223.I (18)
+En la calle CALZADA DE  GUADALUPE   No. Ext. 431   No. Int.    Referencia: INTERIOR DE TIENDA WAL MART  DE  PLAZA  TEPEYAC   entre la calle      y   HENRY FORD
+C.P. 07840 Colonia: GUADALUPE TEPEYAC
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 5:00:00 p.m. del día 20 septiembre 2018
+Hechos: ELEMENTOS DE SEGURIDAD PUBLICA PONEN A DISPOSICION A UN SUJETO DE SEXO  MASCULINO QUE  SACA  MERCANCIA   SIN PAGAR  EL  PRECIO  CORRESPONDIENTE</FormattedValue><Value>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- NEGOCIO SIN VIOLENCIA Art. 220.II/223.I (18)
+En la calle CALZADA DE  GUADALUPE   No. Ext. 431   No. Int.    Referencia: INTERIOR DE TIENDA WAL MART  DE  PLAZA  TEPEYAC   entre la calle      y   HENRY FORD
+C.P. 07840 Colonia: GUADALUPE TEPEYAC
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 5:00:00 p.m. del día 20 septiembre 2018
+Hechos: ELEMENTOS DE SEGURIDAD PUBLICA PONEN A DISPOSICION A UN SUJETO DE SEXO  MASCULINO QUE  SACA  MERCANCIA   SIN PAGAR  EL  PRECIO  CORRESPONDIENTE</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): ABEL LOPEZ DIAZ
+Edad: 50 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JOSE DANIEL PALACIOS RAMIREZ
+Edad:  29 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): ABEL LOPEZ DIAZ
+Edad: 50 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JOSE DANIEL PALACIOS RAMIREZ
+Edad:  29 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: EDUARDO RUIZ ANGELES
+Edad: 27 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: EDUARDO RUIZ ANGELES
+Edad: 27 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</FormattedValue><Value>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02930/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 18:33
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 1500</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02930/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 18:33
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 1500</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO ( MÁS 750 SALARIOS MÍNIMOS) Mod.- OBJETOS  Art. 221.II (22H)
+En la calle ALBERTO HERRERA   No. Ext. 11   No. Int.    Referencia:    entre la calle   AQUILES SERDAN   y   HIDALGO
+C.P. 07000 Colonia: ARAGON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 6:05:00 p.m. del día 20 septiembre 2018
+Hechos: QUE AL DEJAR UNA ESCALERA ES COMO UN SUEJETO SE LA LLEVA SIN DERECHO NI CONSENTIMIENTO</FormattedValue><Value>ROBO ( MÁS 750 SALARIOS MÍNIMOS) Mod.- OBJETOS  Art. 221.II (22H)
+En la calle ALBERTO HERRERA   No. Ext. 11   No. Int.    Referencia:    entre la calle   AQUILES SERDAN   y   HIDALGO
+C.P. 07000 Colonia: ARAGON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 6:05:00 p.m. del día 20 septiembre 2018
+Hechos: QUE AL DEJAR UNA ESCALERA ES COMO UN SUEJETO SE LA LLEVA SIN DERECHO NI CONSENTIMIENTO</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): ALMA ROSA BOBADILLA VILLANUEVA
+Edad: 42 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JAVIER CHAVEZ VALENZUELA
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): ALMA ROSA BOBADILLA VILLANUEVA
+Edad: 42 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   JAVIER CHAVEZ VALENZUELA
+Edad:  42 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: MARIO HERNANDEZ TOLENTINO
+Edad: 38 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>IMPUTADO: MARIO HERNANDEZ TOLENTINO
+Edad: 38 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02931/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 19:29
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02931/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 19:29
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: ANTONIO CHECA XOXOTLA
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO ( MÁS DE 300 Y MENOS DE 750 SALARIOS MÍNIMOS) Mod.- CASA HABITACION SIN VIOLENCIA Art. 220.III/223.III (17)
+En la calle AVENIDA MARTIN CARRERA   No. Ext. 171   No. Int. DP304   Referencia:    entre la calle      y   
+C.P. 07070C Colonia: MARTIN CARRERA
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:00:00 p.m. del día 20 septiembre 2018
+Hechos: EL DENUNCIANTE REFIERE QUE AL LLEGAR A SU DOMICILIO SE PERCATA DE QUE SE HABIAN METIDO A SU DOMICILIO Y LE HACIAN FALTA PERTENENCIAS</FormattedValue><Value>ROBO ( MÁS DE 300 Y MENOS DE 750 SALARIOS MÍNIMOS) Mod.- CASA HABITACION SIN VIOLENCIA Art. 220.III/223.III (17)
+En la calle AVENIDA MARTIN CARRERA   No. Ext. 171   No. Int. DP304   Referencia:    entre la calle      y   
+C.P. 07070C Colonia: MARTIN CARRERA
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:00:00 p.m. del día 20 septiembre 2018
+Hechos: EL DENUNCIANTE REFIERE QUE AL LLEGAR A SU DOMICILIO SE PERCATA DE QUE SE HABIAN METIDO A SU DOMICILIO Y LE HACIAN FALTA PERTENENCIAS</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): JOSE PERDOMO ROMAN
+Edad: 53 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): JOSE PERDOMO ROMAN
+Edad: 53 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02932/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 21:21
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02932/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 20 septiembre 2018
+Hora: 21:21
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: BRENDA VIRIDIANA BAEZ RIVAS
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- EN METROBUS SIN VIOLENCIA Art. 220.II/224.III (20E)
+En la calle AVENIDA EDUARDO MOLINA ESQ ORIENTE 157   No. Ext.    No. Int.    Referencia: ESTACION DE METROBUS EL COYOL   entre la calle      y   
+C.P. 07400 Colonia: SALVADOR DIAZ MIRON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 6:30:00 a.m. del día 20 septiembre 2018
+Hechos: DENUNCIANTE HACE DEL CONOCIMIENTO DE ESTA AUTORIDAD HECHOS POSIBLEMENTE CONSTITUTIVOS DE DELITO</FormattedValue><Value>ROBO (NO EXCEDA DE 300 SALARIOS MÍNIMOS O INDETERMINADO) Mod.- EN METROBUS SIN VIOLENCIA Art. 220.II/224.III (20E)
+En la calle AVENIDA EDUARDO MOLINA ESQ ORIENTE 157   No. Ext.    No. Int.    Referencia: ESTACION DE METROBUS EL COYOL   entre la calle      y   
+C.P. 07400 Colonia: SALVADOR DIAZ MIRON
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 6:30:00 a.m. del día 20 septiembre 2018
+Hechos: DENUNCIANTE HACE DEL CONOCIMIENTO DE ESTA AUTORIDAD HECHOS POSIBLEMENTE CONSTITUTIVOS DE DELITO</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): PATRICIA GARDUÑO ZAVALA
+Edad: 52 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): PATRICIA GARDUÑO ZAVALA
+Edad: 52 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: Q. R. R.
+Edad: sin edad
+Sexo:  INDETERMINADO
+Genero: INDETERMINADO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>INICIADA</FormattedValue><Value>INICIADA</Value></Field>
+</Section>
+</Details>
+<Details Level="2">
+<Section SectionNumber="0">
+<Field Name="DatosCarpeta1" FieldName="{tbReporteRollDeAgencia.DatosCarpeta}"><FormattedValue>CI-FGAM/GAM-4/UI-3 C/D/02933/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 21 septiembre 2018
+Hora: 02:10
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</FormattedValue><Value>CI-FGAM/GAM-4/UI-3 C/D/02933/09-2018
+Unidad: 3 CON DETENIDO
+Turno: PRIMERO
+Fecha: 21 septiembre 2018
+Hora: 02:10
+M.P. Titular: JOSE LUIS AVELINO PAEZ
+Auxiliar M.P.: LINO FERNANDO PALACIOS BARRON
+Monto: 0</Value></Field>
+<Field Name="DatosDelitosHechos1" FieldName="{tbReporteRollDeAgencia.DatosDelitosHechos}"><FormattedValue>ROBO (NO EXCEDA DE 300 VECES LA UNIDAD DE CUENTA) Mod.- ROBO DE ACCESORIOS DE VEHICULO Art. 220.II/224.VIII (22a)
+En la calle FLOR DE CUARESMA  ESQUINA FLOR DE SANTIAGO   No. Ext. SN   No. Int.    Referencia:    entre la calle      y   
+C.P. 07180 Colonia: COCOYOTES
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:15:00 a.m. del día 21 septiembre 2018
+Hechos: POLICIA PREVENTIVA PONE A DISPOSICION A SUJETO MASCULINO  SEÑALADO COMO QUIEN SUSTRAE  AUTOESTEREO DE VEHICULO</FormattedValue><Value>ROBO (NO EXCEDA DE 300 VECES LA UNIDAD DE CUENTA) Mod.- ROBO DE ACCESORIOS DE VEHICULO Art. 220.II/224.VIII (22a)
+En la calle FLOR DE CUARESMA  ESQUINA FLOR DE SANTIAGO   No. Ext. SN   No. Int.    Referencia:    entre la calle      y   
+C.P. 07180 Colonia: COCOYOTES
+ Delegación: GUSTAVO A MADERO  DISTRITO FEDERAL
+Siendo apróximadamente 1:15:00 a.m. del día 21 septiembre 2018
+Hechos: POLICIA PREVENTIVA PONE A DISPOSICION A SUJETO MASCULINO  SEÑALADO COMO QUIEN SUSTRAE  AUTOESTEREO DE VEHICULO</Value></Field>
+<Field Name="DatosDenunciante1" FieldName="{tbReporteRollDeAgencia.DatosDenunciante}"><FormattedValue>DENUNCIANTE(s): MARY CARMEN AGUILAR BARRERA
+Edad: 30 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   DAVID ISAAC ECHEVERRIA SANCHEZ
+Edad:  29 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   JUAN CARLOS VELAZQUEZ ENCISO
+Edad:  21 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</FormattedValue><Value>DENUNCIANTE(s): MARY CARMEN AGUILAR BARRERA
+Edad: 30 años
+Sexo:  MUJER
+Genero: FEMENINO
+Nacionalidad:  MEXICANA
+
+REMITENTE(s): POLICIA PREVENTIVO   DAVID ISAAC ECHEVERRIA SANCHEZ
+Edad:  29 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA
+REMITENTE(s): POLICIA PREVENTIVO   JUAN CARLOS VELAZQUEZ ENCISO
+Edad:  21 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  MEXICANA</Value></Field>
+<Field Name="DatosProbable1" FieldName="{tbReporteRollDeAgencia.DatosProbable}"><FormattedValue>IMPUTADO: RODRIGO TADEO MARTINEZ
+Edad: 28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</FormattedValue><Value>IMPUTADO: RODRIGO TADEO MARTINEZ
+Edad: 28 años
+Sexo:  HOMBRE
+Genero: MASCULINO
+Nacionalidad:  INDETERMINADA</Value></Field>
+<Field Name="DatosTramite1" FieldName="{tbReporteRollDeAgencia.DatosTramite}"><FormattedValue>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</FormattedValue><Value>REMITIDA A INVESTIGACIÓN EN GUSTAVO A. MADERO</Value></Field>
+</Section>
+</Details>
+</Group>
+<ReportFooter>
+<Section SectionNumber="0">
+<Text Name="Firma1"><TextValue>S I N  M A S  N O V E D A D</TextValue>
+</Text>
+<Text Name="Firma2"><TextValue>A T E N T A M E N T E</TextValue>
+</Text>
+<Text Name="FirmaFecha"><TextValue>MÉXICO, D.F. A 21 DE SEPTIEMBRE DEL 2018</TextValue>
+</Text>
+<Text Name="FirmaCargo"><TextValue>EL C. AGENTE DEL MINISTERIO PUBLICO</TextValue>
+</Text>
+<Text Name="FirmaNombre"><TextValue>CORONADO GARCIA VICTOR HUGO</TextValue>
+</Text>
+</Section>
+</ReportFooter>
+</CrystalReport>
